@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { Logo, HeaderPage, Item, Container, ContainerSearch, Search, IconSearch, IconCart, IconHeart, ListItems } from './styles';
+import { HeaderPage, Item, Container, ContainerSearch, Search, IconSearch, IconCart, ListItems } from './styles';
 
-import LogoImg from '../../assets/logo.jpg';
+// import LogoImg from '../../assets/logo.jpg';
 
 function Header() {
   return (
